@@ -32,7 +32,7 @@ Hello! I am an incoming undergraduate student passionate about **Computer Scienc
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamSamdiMalo&show_icons=true&theme=ashen&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamSamdiMalo&show_icons=true&theme=neutral&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
